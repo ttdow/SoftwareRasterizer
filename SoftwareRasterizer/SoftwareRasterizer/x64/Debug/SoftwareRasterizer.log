@@ -1,0 +1,103 @@
+﻿  main.cpp
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(109,72): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(109,41): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(110,72): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(110,41): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(111,72): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(111,41): warning C4244: 'argument': conversion from 't' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+          and
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(138,56): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(138,32): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(175,21): warning C4244: 'argument': conversion from 't' to 'int', possible loss of data
+          with
+          [
+              t=float
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(175,16): warning C4244: 'argument': conversion from 't' to 'int', possible loss of data
+          with
+          [
+              t=float
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(183,59): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(183,18): warning C4244: 'argument': conversion from 'int' to 't', possible loss of data
+          with
+          [
+              t=float
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(208,20): warning C4018: '<': signed/unsigned mismatch
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(232,67): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(232,50): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(232,35): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\Geometry.h(20,78): warning C4244: 'argument': conversion from 'float' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\Geometry.h(20): message : while compiling class template member function 'Vec2<int> Vec2<int>::operator *(float) const'
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(94): message : see reference to function template instantiation 'Vec2<int> Vec2<int>::operator *(float) const' being compiled
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\main.cpp(67): message : see reference to class template instantiation 'Vec2<int>' being compiled
+C:\dev\SoftwareRasterizer\SoftwareRasterizer\SoftwareRasterizer\src\Geometry.h(20,71): warning C4244: 'argument': conversion from 'float' to 't', possible loss of data
+          with
+          [
+              t=int
+          ]
+  SoftwareRasterizer.vcxproj -> C:\dev\SoftwareRasterizer\SoftwareRasterizer\x64\Debug\SoftwareRasterizer.exe
